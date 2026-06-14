@@ -89,19 +89,19 @@ The dataset contains 3,000+ product records (SKUs) from Zepto across multiple ca
 
 
 
-\* Fruits \& Vegetables
+* Fruits & Vegetables
 
-\* Dairy \& Breakfast
+* Dairy & Breakfast
 
-\* Snacks \& Munchies
+* Snacks & Munchies
 
-\* Beverages
+* Beverages
 
-\* Packaged Foods
+* Packaged Foods
 
-\* Personal Care
+* Personal Care
 
-\* Household Essentials
+* Household Essentials
 
 
 
@@ -145,19 +145,19 @@ Each row represents a unique product with information related to pricing, discou
 
 * name
 
-\* mrp
+* mrp
 
-\* discount\_percent
+* discount_percent
 
-\* available\_quantity
+* available_quantity
 
-\* discounted\_selling\_price
+* discounted_selling_price
 
-\* weight\_in\_gms
+* weight_in_gms
 
-\* out\_of\_stock
+* out_of_stock
 
-\* quantity
+* quantity
 
 
 
@@ -196,7 +196,7 @@ The first phase focused on understanding the dataset structure and identifying p
 
 
 
-\### Tasks Performed
+### Tasks Performed
 
 
 
@@ -204,19 +204,19 @@ The first phase focused on understanding the dataset structure and identifying p
 
 
 
-\* Checked total number of records
+* Checked total number of records
 
-\* Inspected dataset structure
+* Inspected dataset structure
 
-\* Identified missing values
+* Identified missing values
 
-\* Explored unique product categories
+* Explored unique product categories
 
-\* Analyzed stock availability
+* Analyzed stock availability
 
-\* Verified pricing consistency
+* Verified pricing consistency
 
-\* Checked for duplicate records
+* Checked for duplicate records
 
 
 
@@ -232,7 +232,7 @@ The first phase focused on understanding the dataset structure and identifying p
 
 
 
-\## Data Cleaning
+## Data Cleaning
 
 
 
@@ -258,7 +258,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Cleaning Activities
+### Cleaning Activities
 
 
 
@@ -269,21 +269,21 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\* Renamed columns using snake\_case convention
+* Renamed columns using snake\_case convention
 
-\* Validated missing values
+* Validated missing values
 
-\* Checked duplicate records
+* Checked duplicate records
 
-\* Standardized column names
+* Standardized column names
 
-\* Verified pricing and inventory fields
+* Verified pricing and inventory fields
 
-\* Removed inconsistencies where necessary
+* Removed inconsistencies where necessary
 
 
 
-\---------------------
+---------------------
 
 
 
@@ -295,7 +295,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\## Business KPI Analysis
+## Business KPI Analysis
 
 
 
@@ -304,14 +304,14 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Q1. Find the Top 10 Best-Value Products Based on Discount Percentage
+### Q1. Find the Top 10 Best-Value Products Based on Discount Percentage
 
 
 
 
 
 
-\### Q2. Identify Products with High MRP but Currently Out of Stock
+### Q2. Identify Products with High MRP but Currently Out of Stock
 
 
 
@@ -321,7 +321,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Q3. Calculate Estimated Revenue for Each Category
+### Q3. Calculate Estimated Revenue for Each Category
 
 
 
@@ -330,7 +330,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Q4. Find All Products Where MRP is Greater Than ₹500 and Discount is Less Than 10%
+### Q4. Find All Products Where MRP is Greater Than ₹500 and Discount is Less Than 10%
 
 
 
@@ -339,20 +339,20 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Q5. Identify the Top 5 Categories Offering the Highest Average Discount Percentage
+### Q5. Identify the Top 5 Categories Offering the Highest Average Discount Percentage
 
 
 
 
 
 
-\### Q6. Find the Price per Gram for Products Weighing More Than 100g and Rank Them by Best Value
+### Q6. Find the Price per Gram for Products Weighing More Than 100g and Rank Them by Best Value
 
 
 
 
 
-\### Q7. Categorize Products into Inventory Segments (Low, Medium, Bulk)
+### Q7. Categorize Products into Inventory Segments (Low, Medium, Bulk)
 
 
 
@@ -360,7 +360,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Q8. Calculate Total Inventory Weight for Each Category
+### Q8. Calculate Total Inventory Weight for Each Category
 
 
 
@@ -368,35 +368,35 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Q9. Identify Categories with the Highest Stock-Out Risk
+### Q9. Identify Categories with the Highest Stock-Out Risk
 
 
 
 
 
 
-\### Q10. Estimate Potential Revenue Loss Due to Out-of-Stock Products
+### Q10. Estimate Potential Revenue Loss Due to Out-of-Stock Products
 
 
 
 
 
 
-\### Q11. Identify Dead Inventory (High Stock, Low Discount Products)
+### Q11. Identify Dead Inventory (High Stock, Low Discount Products)
 
 
 
 
 
 
-\### Q12. Calculate Discount Leakage by Category
+### Q12. Calculate Discount Leakage by Category
 
 
 
 
 
 
-\### Q13. Determine Category Dominance by Inventory Value Contribution
+### Q13. Determine Category Dominance by Inventory Value Contribution
 
 
 
@@ -404,43 +404,43 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### Q14. Identify Products Suitable for Portfolio Optimization or Discontinuation
+### Q14. Identify Products Suitable for Portfolio Optimization or Discontinuation
 
 
 
-\----------------------
+----------------------
 
 
 
 
 
 
-\## Key Business Insights
+## Key Business Insights
 
 
 
 
 
 
-\* Identified categories offering the highest discounts.
+* Identified categories offering the highest discounts.
 
-\* Detected products with high inventory risk.
+* Detected products with high inventory risk.
 
-\* Estimated category-level revenue potential.
+* Estimated category-level revenue potential.
 
-\* Highlighted products providing the best value for money.
+* Highlighted products providing the best value for money.
 
-\* Evaluated discount leakage across categories.
+* Evaluated discount leakage across categories.
 
-\* Identified potential dead inventory.
+* Identified potential dead inventory.
 
-\* Analyzed inventory concentration by category.
+* Analyzed inventory concentration by category.
 
-\* Recommended products for portfolio optimization.
+* Recommended products for portfolio optimization.
 
 
 
-\---------------------
+---------------------
 
 
 
@@ -448,7 +448,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
@@ -456,11 +456,11 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\* MySQL
+* MySQL
 
-\* MySQL Workbench
+* MySQL Workbench
 
-\* SQL
+* SQL
 
 
 
@@ -472,7 +472,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\### SQL Concepts Applied
+### SQL Concepts Applied
 
 
 
@@ -483,27 +483,27 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\* Aggregations
+* Aggregations
 
-\* GROUP BY
+* GROUP BY
 
-\* ORDER BY
+* ORDER BY
 
-\* CASE Statements
+* CASE Statements
 
-\* Subqueries
+* Subqueries
 
-\* Common Business KPIs
+* Common Business KPIs
 
-\* Data Cleaning Techniques
+* Data Cleaning Techniques
 
-\* Inventory Analysis
+* Inventory Analysis
 
-\* Pricing Analysis
+* Pricing Analysis
 
 
 
-\-------------------
+-------------------
 
 
 
@@ -516,7 +516,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -527,19 +527,19 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\* Data Import
+* Data Import
 
-\* Data Exploration
+* Data Exploration
 
-\* Data Cleaning
+* Data Cleaning
 
-\* Business KPI Analysis
+* Business KPI Analysis
 
-\* Inventory \& Pricing Insights
+* Inventory \& Pricing Insights
 
 
 
-\-----------------------
+-----------------------
 
 
 
@@ -549,7 +549,7 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
