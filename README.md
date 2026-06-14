@@ -61,11 +61,28 @@ This project was developed using \*\*MySQL\*\* and focuses on solving practical 
 
 
 
-\---
+-----------------
+
+
+
+
+
+
+
+
+
+
 
 
 
 ## Dataset Overview
+
+
+
+
+
+
+
 
 
 
@@ -93,7 +110,27 @@ Each row represents a unique product with information related to pricing, discou
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 \### Dataset Columns
+
+
+
+
+
+
+
 
 
 
@@ -117,7 +154,17 @@ Each row represents a unique product with information related to pricing, discou
 
 
 
-\---
+\--------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -125,11 +172,28 @@ Each row represents a unique product with information related to pricing, discou
 
 
 
+
+
+
+
 The first phase focused on understanding the dataset structure and identifying potential data quality issues.
 
 
 
+
+
+
+
+
+
+
+
+
 \### Tasks Performed
+
+
+
+
 
 
 
@@ -149,7 +213,15 @@ The first phase focused on understanding the dataset structure and identifying p
 
 
 
-\---
+-------------------
+
+
+
+
+
+
+
+
 
 
 
@@ -157,11 +229,36 @@ The first phase focused on understanding the dataset structure and identifying p
 
 
 
+
+
+
+
+
+
+
+
 To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
+
+
+
+
+
+
+
 \### Cleaning Activities
+
+
+
+
+
+
+
 
 
 
@@ -179,7 +276,15 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\---
+\---------------------
+
+
+
+
+
+
+
+
 
 
 
@@ -187,7 +292,15 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
+
+
 \### Q1. Find the Top 10 Best-Value Products Based on Discount Percentage
+
+
+
 
 
 
@@ -195,7 +308,18 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
+
+
+
 \### Q3. Calculate Estimated Revenue for Each Category
+
+
+
+
+
 
 
 
@@ -203,7 +327,15 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
+
+
 \### Q5. Identify the Top 5 Categories Offering the Highest Average Discount Percentage
+
+
+
 
 
 
@@ -211,7 +343,13 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
 \### Q7. Categorize Products into Inventory Segments (Low, Medium, Bulk)
+
+
+
+
 
 
 
@@ -219,7 +357,14 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
+
 \### Q9. Identify Categories with the Highest Stock-Out Risk
+
+
+
 
 
 
@@ -227,7 +372,13 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
 \### Q11. Identify Dead Inventory (High Stock, Low Discount Products)
+
+
+
 
 
 
@@ -235,7 +386,14 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
 \### Q13. Determine Category Dominance by Inventory Value Contribution
+
+
+
+
 
 
 
@@ -243,11 +401,17 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\---
+\----------------------
+
+
+
 
 
 
 \## Key Business Insights
+
+
+
 
 
 
@@ -269,11 +433,19 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\---
+\---------------------
+
+
+
+
 
 
 
 \## Tools Used
+
+
+
+
 
 
 
@@ -285,7 +457,22 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
+
+
+
+
+
+
+
+
 \### SQL Concepts Applied
+
+
+
+
+
+
+
 
 
 
@@ -309,11 +496,27 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\---
+\-------------------
+
+
+
+
+
+
+
+
+
 
 
 
 \## Project Structure
+
+
+
+
+
+
+
 
 
 
@@ -329,11 +532,25 @@ To ensure accurate analysis, several data-cleaning steps were performed:
 
 
 
-\---
+\-----------------------
+
+
+
+
+
+
 
 
 
 \## Conclusion
+
+
+
+
+
+
+
+
 
 
 
