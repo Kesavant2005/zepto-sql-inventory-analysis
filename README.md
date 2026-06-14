@@ -1,4 +1,16 @@
-\# 🛒 Zepto Inventory \& Pricing Analysis using SQL
+# 🛒 Zepto Inventory \& Pricing Analysis using SQL
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
