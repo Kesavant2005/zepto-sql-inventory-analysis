@@ -61,7 +61,6 @@ This project was developed using \*\*MySQL\*\* and focuses on solving practical 
 
 
 
------------------
 
 
 
@@ -123,7 +122,15 @@ Each row represents a unique product with information related to pricing, discou
 
 
 
-\### Dataset Columns
+
+
+
+
+
+
+
+
+### Dataset Columns
 
 
 
@@ -134,9 +141,9 @@ Each row represents a unique product with information related to pricing, discou
 
 
 
-\* Category
+* Category
 
-\* name
+* name
 
 \* mrp
 
@@ -154,7 +161,7 @@ Each row represents a unique product with information related to pricing, discou
 
 
 
-\--------------------
+--------------------
 
 
 
@@ -168,7 +175,7 @@ Each row represents a unique product with information related to pricing, discou
 
 
 
-\## Data Exploration
+## Data Exploration
 
 
 
