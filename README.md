@@ -4,10 +4,7 @@
 
 SQL Data Analysis Project using Zepto Inventory Dataset | Inventory, Pricing \& Business KPI Analysis
 
-
-
-!\[Project Output](screenshots/Screenshot%202026-06-14%20151329.png)
-
+<img width="1396" height="796" alt="Screenshot 2026-06-14 151329" src="https://github.com/user-attachments/assets/487b373a-1357-4f79-9172-7edc5e8195d7" />
 
 
 \## Project Overview
